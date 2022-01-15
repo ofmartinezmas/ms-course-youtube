@@ -13,7 +13,7 @@ spring:
   # DB
   # ===============================
   datasource:
-    url: spring.data.mongodb.url=mongodb+srv://pragma:Cangrej076@cluster0.op18a.mongodb.net/pragma?retryWrites=true&w=majority
+    url: mongodb+srv://pragma:Cangrej076@cluster0.op18a.mongodb.net/pragma?retryWrites=true&w=majority
     
 
   # ===============================
